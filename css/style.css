@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+    color: #2b2020;
+    text-align: center;
+    color: white;
+}
+
+section tr{
+    margin: 20px;
+    padding: 20px;
+    background-color: #480049;
+    border-radius: 10px;
+}
+
+table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    border-radius: 10px;
+    overflow: hidden;
+    
+}
+
+th, td{
+    padding: 10px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 40px;
+
+}
+
+.button {
+    background-color: #4b204b;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4b204b;
+}
+
+form {
+    border: 2px solid #333;
+    padding: 15px;
+    width: 300px;
+    border-radius: 15px; 
+    background-color: #feb4ff;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1); 
+    
+    margin: 50px auto; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.text-center{
+    background-color: transparent !important;
+}
+
+.scrollspy-example {
+        background-color: transparent !important;
+}
+
+.form-control{
+    background-color: #ffc0ff;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 40px;
+}
+
+h4{
+    width: 20%;
+    margin: auto;
+    border-collapse: collapse;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #340052;
+}
+.nav-link{
+    background-color: #4b204b !important;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 40px;
+}
